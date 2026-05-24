@@ -1,29 +1,41 @@
-<h1 align="center">Cristiano de Oliveira Júnior</h1>
-<h3 align="center">Cybersecurity | SOC Analyst Tier 1</h3>
+<h1 align="center">Cristiano de Oliveira Jr. 👋</h1>
+<h3 align="center">SOC Analyst Tier 1 | Blue Team</h3>
 
-<p align="center">
-  Graduando em Segurança da Informação. Focado em Blue Team, monitoramento contínuo, triagem de incidentes e análise de tráfego de rede.
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=debian" height="60" alt="debian logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+</div>
 
-## 🎯 Competências SOC (Tier 1)
-- **Monitoramento e Triagem:** Análise de logs, conceitos de SIEM e tratamento de alertas iniciais.
-- **Redes e Protocolos:** Proficiência em TCP/IP e análise profunda de pacotes.
-- **Infraestrutura:** Administração, configuração e troubleshooting em ambientes Linux.
-- **Segurança de Borda:** Gerenciamento e regras de Firewall.
+###
 
-## 🛠️ Ferramentas e Tecnologias
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<div align="center">
+  <a href="https://www.linkedin.com/in/cristiano-de-oliveira-jr-a1b625259" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:cristianoeu02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://wa.me/5514981441507" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+</div>
 
----
+###
 
-## 📫 Contato
-- 📍 **Localização:** São Paulo, SP
-- 📧 **E-mail:** [cristianoeu02@gmail.com](mailto:cristianoeu02@gmail.com)
-- 📞 **Telefone:** (14) 98144-1507
-- 💼 **LinkedIn:** [cristiano-de-oliveira-jr](https://www.linkedin.com/in/cristiano-de-oliveira-jr-a1b625259)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CR_JUNIOR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=CR_JUNIOR&theme=dracula&no-frame=true&no-bg=true&margin-w=15" height="150" alt="trophy graph" />
+</div>
+
+###
