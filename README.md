@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Cristiano de Oliveira Júnior
+# 👨🏻‍💻 Cristiano Junior
 
 ![SOC Analyst](https://img.shields.io/badge/SOC_Analyst_Tier_1-1E1E28?style=flat-square) ![Blue Team](https://img.shields.io/badge/Blue_Team-1E1E28?style=flat-square)
 
