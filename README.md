@@ -2,11 +2,10 @@
 
 ![SOC Analyst](https://img.shields.io/badge/SOC_Analyst_Tier_1-1E1E28?style=flat-square) ![Blue Team](https://img.shields.io/badge/Blue_Team-1E1E28?style=flat-square)
 
-Me chamo Cristiano, sou natural de Ourinhos, São Paulo. Concluí o ensino médio e atualmente estou cursando Segurança da Informação na FATEC. Sou apaixonado por tecnologia e cibersegurança, com foco em Blue Team, monitoramento de ameaças, redes e administração de ambientes Linux. Compartilho meu conhecimento prático, laboratórios de firewall e análises de vulnerabilidades em IoT através dos repositórios aqui no meu GitHub. No momento, concentro meus estudos na preparação para a certificação CompTIA Security+.
+Sou um profissional em formação na área de Segurança da Informação, com foco central em operações de **Blue Team** e **SOC (Security Operations Center)**. Possuo vivência prática com análise de tráfego de rede, monitoramento de ameaças, triagem de incidentes (Tier 1) e administração de infraestruturas Linux. Utilizo meus repositórios para documentar laboratórios práticos de firewall, resolução de vulnerabilidades e automação de rotinas de segurança. Atualmente, dedico meus estudos à preparação para a certificação corporativa **CompTIA Security+**.
 
 <a href="https://www.linkedin.com/in/cristiano-de-oliveira-jr-a1b625259" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:cristianoeu02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://wa.me/5514981441507" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 ---
 
