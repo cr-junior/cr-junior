@@ -1,47 +1,26 @@
-<h1 align="center">Cristiano de Oliveira Jr. 👋</h1>
-<h3 align="center">SOC Analyst Tier 1 | Blue Team</h3>
+# 👨🏻‍💻 Cristiano de Oliveira Júnior
 
-<p align="center">
-  Graduando em Segurança da Informação, focado em monitoramento, defesa de redes e triagem de incidentes. Minha base técnica vem da vivência prática com infraestrutura e análise de vulnerabilidades. Atualmente em preparação para a certificação <b>CompTIA Security+</b>.
-</p>
+![SOC Analyst](https://img.shields.io/badge/SOC_Analyst_Tier_1-1E1E28?style=flat-square) ![Blue Team](https://img.shields.io/badge/Blue_Team-1E1E28?style=flat-square)
 
-###
+Me chamo Cristiano, sou natural de Ourinhos, São Paulo. Concluí o ensino médio e atualmente estou cursando Segurança da Informação na FATEC. Sou apaixonado por tecnologia e cibersegurança, com foco em Blue Team, monitoramento de ameaças, redes e administração de ambientes Linux. Compartilho meu conhecimento prático, laboratórios de firewall e análises de vulnerabilidades em IoT através dos repositórios aqui no meu GitHub. No momento, concentro meus estudos na preparação para a certificação CompTIA Security+.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,bash,py,aws,docker" height="60" alt="skills logos" />
+<a href="https://www.linkedin.com/in/cristiano-de-oliveira-jr-a1b625259" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:cristianoeu02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://wa.me/5514981441507" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,debian,bash,py,aws,docker" height="40" alt="skills logos" />
 </div>
 
-###
+<br>
 
-<h3 align="center">🚀 O que eu faço & Projetos Práticos</h3>
+### 📊 Estatísticas
 
-- 🛡️ **Defesa e Monitoramento:** Administração e configuração de firewalls (pfSense), análise de tráfego e isolamento de redes virtuais (resolução de conflitos de IP e roteamento avançado).
-- 🔍 **Análise de Vulnerabilidades:** Desenvolvimento de projetos voltados à segurança de dispositivos IoT (Internet das Coisas), incluindo testes de segurança e mitigação em babás eletrônicas.
-- 🐧 **Infraestrutura & Redes:** Criação de scripts em Bash para automação, gerenciamento de ambientes Linux (Debian/Kali) e padronização rigorosa de documentação de rede (ex: padronização de nomenclaturas como TELEIP).
-- 🌐 **Desenvolvimento Contínuo:** Aprimoramento constante de laboratórios práticos com Docker e AWS, aliados ao estudo focado no inglês técnico.
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/cristiano-de-oliveira-jr-a1b625259" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:cristianoeu02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/5514981441507" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo" />
-  </a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CR_JUNIOR&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR_JUNIOR&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens mais usadas" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CR_JUNIOR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=CR_JUNIOR&theme=dracula&no-frame=true&no-bg=true&margin-w=15" height="150" alt="trophy graph" />
-</div>
-
-###
